@@ -11,7 +11,7 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto" , sans-serif;
   color: var(--primary-text-color);
   background-color: var(--white);
   font-weight: 500;
@@ -50,7 +50,7 @@ body {
 /* Header */
 
 .header-logo {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway" , sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.33;
