@@ -73,6 +73,7 @@ body {
 }
 
 .address-link {
+  font-weight: 400;
   font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -91,6 +92,7 @@ body {
 .header-btn {
   font-family: inherit;
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   display: flex;
   align-items: center;
